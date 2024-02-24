@@ -16,5 +16,8 @@ git commit -m "Message"
 ```sh
 git log
 ```
+Просмотр версии в сокращённом варианте:
+```sh
 git log --oneline
+```
 git checkout
