@@ -12,6 +12,9 @@ git add
 ```sh
 git commit -m "Message"
 ```
+Просмотр версии:
+```sh
 git log
+```
 git log --oneline
 git checkout
