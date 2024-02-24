@@ -22,5 +22,10 @@ git log --oneline
 ```
 Выбор и просмотр сохранённой версии:
 ```sh
-git checkout <branch name>
+git checkout <имя ветки>
+```
+
+Отображение всех ветак:
+```sh
+git branch
 ```
